@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666877407 source:c:\users\temp.vlo-30-13.005\desktop\nowy folder\projekt\matematyka.cpp
+	<math.h>
+
+1666877469 source:c:\users\temp.vlo-30-13.005\desktop\nowy folder\projekt\main.cpp
+	<iostream>
+	<math.h>
+	"matematyka.h"
+
+1666877371 c:\users\temp.vlo-30-13.005\desktop\nowy folder\projekt\matematyka.h
+
